@@ -1,0 +1,16 @@
+# testing data
+# sample
+
+# logs
+*.log
+
+# compiled files
+__pycache__
+*.pot
+*.pyc
+
+# credentials
+credentials.py
+
+# django static
+media
